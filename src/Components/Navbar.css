@@ -1,0 +1,68 @@
+.navbar{
+margin-top:20px ;
+margin-left: 450px;
+
+} 
+.navbar-control{
+    color: yellow;
+    font-size: 150%;
+
+}
+
+/* mobile */
+
+@media (min-width:300px) and (max-width:700px){
+
+    .navbar{
+        margin-top:20px ;
+        margin-left: 10px;
+        }
+
+        .navbar-control{
+            color: yellow;
+            font-size: 60%;
+        }
+    
+}
+
+@media (min-width:280px) and (max-width:653px) {
+    .navbar{
+        margin-top:20px ;
+        margin-left: 20px;
+        }
+
+        .navbar-control{
+            color: yellow;
+            font-size: 60%;
+        }
+
+}
+
+
+/* Tab */
+
+@media (min-width:701px) and (max-width:1024px){
+    .navbar{
+        margin-top:20px ;
+        margin-left: 150px;
+        
+        } 
+        .navbar-control{
+            color: yellow;
+            font-size: 150%;
+        
+        }
+}
+
+/* Desktop */
+
+@media (min-width:1025px) and (max-width:1440px){
+    .navbar{
+        margin-top:20px ;
+        margin-left: 150px;
+        } 
+        .navbar-control{
+            color: yellow;
+            font-size: 150%;
+        }
+}

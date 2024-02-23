@@ -1,0 +1,176 @@
+.about{
+  color: #ffb3b3;
+  text-align: center; 
+}
+.h1{
+    font-size: 60px;
+}
+.h2{
+    color: rgb(43, 177, 226);
+}
+
+.about-link{
+    font-size: 30px;
+}
+.mark-link{
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+
+/* Mobile Responsive */
+@media (min-width:300px) and (max-width:700px){
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+        width: auto;
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 30px;
+      }
+      .mark-link{
+          font-size: 20px;
+          border-radius: 10px;
+      }
+}
+
+@media (min-width:280px) and (max-width:653px) {
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+        width: auto;
+      }
+      .h1{
+          font-size: 30px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 10px;
+      }
+      .mark-link{
+          font-size: 10px;
+          border-radius: 10px;
+      }
+}
+@media (min-width:360px) and (max-width:740px){
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+        width: auto;
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 20px;
+      }
+      .mark-link{
+          font-size: 20px;
+          border-radius: 10px;
+      }
+}
+
+
+/* Tab Responsive */
+
+@media (min-width:701px) and (max-width:'1024px'){
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 30px;
+      }
+      .mark-link{
+          font-size: 30px;
+          border-radius: 10px;
+      }
+}
+@media (min-width:412px) and (max-width:914px){
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+        width: auto;
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 15px;
+      }
+      .mark-link{
+          font-size: 10px;
+          border-radius: 10px;
+      }
+}
+
+@media (min-width:540px) and (max-width:720px){
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+        width: auto;
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 15px;
+      }
+      .mark-link{
+          font-size: 20px;
+          border-radius: 10px;
+      }
+}
+
+/* Desktop Responsive */
+
+@media (min-width:1025px) and (max-width:1440px){
+
+    .about{
+        color: #ffb3b3;
+        text-align: center; 
+      }
+      .h1{
+          font-size: 60px;
+      }
+      .h2{
+          color: rgb(43, 177, 226);
+      }
+      
+      .about-link{
+          font-size: 30px;
+      }
+      .mark-link{
+          font-size: 30px;
+          border-radius: 10px;
+      }
+}
